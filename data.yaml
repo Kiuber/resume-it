@@ -1,151 +1,157 @@
 ---
 update_time: '2017.2.24'
-name: 张睿武
-nickname: xiao555
+name: 张庆宝
+nickname: Kiuber
 meta_content: 大三前端狗，HR姐姐们把我招到碗里去吧
 keywords: xiao555,前端,工作,简历
 ga_id: 'UA-92595311-1'
-age: 22岁
+age: 20岁
 gender: 男
-school: 西安电子科技大学
+school: 山东商务职业学院
 profession: 软件工程
-grade: 大三
-english_level: CET-6
-blog: https://www.xiao555.com.cn
-github: https://www.github.com/xiao555
-website:
-online: https://xiao555.github.io/Resume/
-print: https://xiao555.github.io/Resume/print.html
-apply_to_position: Web前端实习生
+grade: 大二
+english_level: CET-4
+blog: http://www.kiuber.me/blog/
+github: https://www.github.com/kiuber/
+website: http://www.kiuber.me/
+online: 
+print: 
+apply_to_position: Android工程师
+honor:
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+  -
+    name: 齐鲁软件大赛一等奖齐鲁软件大赛一等奖
+    date: 2017.07
+
 contact:
   -
     icon: fa-envelope
     name: Email
-    value: zhangruiwu32@gmail.com
+    value: Kiuber.Zhang@gmail.com
   -
     icon: fa-qq
     name: QQ
-    value: '1335497539'
+    value: '582279412'
   -
     icon: fa-phone-square
     name: PhoneNumber
-    value: '18729316081'
-honor:
-  -
-    name: XXXX大赛一等奖
-    date: 2017.07
+    value: '15589618535'
 tech:
   -
-    name: HTML/CSS
-    percentage: 80%
+    name: Java
+    percentage: 70%
+  -
+    name: Android
+    percentage: 75%
+  -
+    name: HTML
+    percentage: 30%
   -
     name: JavaScript
-    percentage: 60%
-  -
-    name: PHP
-    percentage: 40%
+    percentage: 30%
   -
     name: Git
-    percentage: 60%
+    percentage: 50%
   -
-    name: Node.js
-    percentage: 40%
+    name: Linux
+    percentage: 30%
 experience:
   -
     section: 个人项目
     project:
       -
-        name: Webjucks
-        date: 2017.2
+        name: 智讯
+        date: 2017.04-至今
         img:
         website:
-        source_code: https://github.com/xiao555/Webjucks
+        source_code: https://github.com/kiuber/
         des: !!md |
-          寒假自己写了个多页应用脚手架，数据模板分离的思想，webpack打包，开发过程中主要是研究了怎么配置webpack，怎么实时开发浏览结果，怎么安排项目结构。
+          我与我们系主任一同开发的一款针对于在校大学生在线请假移动应用，利用二维码假条来防止假假条的产生以及信息化，将请假变得简单快捷方便，老师与我分别负责IOS、安卓。应用分为学生端和教师端，学生端实现了提交请假申请、查看请假历史、生成请假二维码、扫一扫、在线识别二维码图片、选择图片识别二维码、分享图片时识别等功能。教师端将要实现在线审批请假、以及与学生考勤系统对接。这两个应用初步定在下一学期开始投入使用。
       -
-        name: nunjucks-extend-loader
-        date: 2017.2
+        name: 山东微拼
+        date: 2017.03-2017.04
         img:
         website:
-        source_code: https://github.com/xiao555/nunjucks-extend-loader
+        source_code: https://github.com/kiuber/
         des: !!md |
-          开发框架的过程中，自己写了个loader，已发布在npm上。用 Node的fs模块递归创建不存在的目录，最后通过回调函数完成最后一步copy文件的动作。
+          独立开发整个项目，截止到2017年7月累计用户9K。这款小程序是一款拼车、广告平台。主要功能有人找车、车找人、广告、我的四个板块
       -
-        name: Resume-it
-        date: 2017.2
+        name: 爱点
+        date: 2016.07-2016.09
         img:
         website:
-        source_code: https://github.com/xiao555/Resume-it
+        source_code: https://github.com/kiuber/
         des: !!md |
-          知乎上看大家的简历，感觉模板很多，但个人信息是不变的，所以我就想搞一个数据模板分离的简历生成器，这样无论换模板还是改数据都非常方便。暂时 25 star，12 fork，有人用是最好的。
+          我们小组四人利用大一暑假一个多月时间完成的参加比赛项目，我负责项目的整体安排，本项目难点主要在于公益币在规定时间退回到对应账号。这是一款公益类的应用，结合拍卖实现年轻化公益。应用采用了目前市面上常用的页卡布局，实现了公益项目、拍卖物品、评论、发布动态、点赞、充值公益币等功能，比较完善。数据库采用两部分，像非隐私性信息、媒体类信息存放在Bmob数据库，账号信息、公益币放在自己的云服务器，服务器用WebService来对安卓提供增删改查接口。应用也接入了微信、微博等登录方式，以及加入了名人实名认证等功能。
       -
-        name: Blog
-        date: 2017.4-至今
+        name: 备忘悬浮
+        date: 2016.03-2016.04
         img:
         website:
-        source_code: https://github.com/xiao555/New-Blog
+        source_code: https://github.com/kiuber/
         des: !!md |
-          用来练手Vue的项目，基于Koa2 + Vue2 + MongoDB + Redis 搭建的 前后端分离 + RESTful API + SSR 的博客系统
-  -
-    section: 实习项目
-    project:
+          可以把需要备忘的内容保存，然后开启悬浮，就可以悬浮在手机上，手指可以拖动，允许App自启动后可以开机悬浮。
       -
-        name: SSRGA
-        date: '2016.7'
-        img: http://ojxrgrrxt.bkt.clouddn.com/ssrga.jpg
-        website: http://www.ssrga.com/
-        source_code:
+        name: ShareMy
+        date: 2016.01-2016.03
+        img:
+        website:
+        source_code: https://github.com/kiuber/
         des: !!md |
-          这是我接手的第一个项目，为了适应团队框架完成页面我快速学习了模板引擎Nunjucks，CSS预处理器Stylus，数据层YAML语法等等。
-          然后在实践中巩固，最终一个周左右实现了这个项目的前端部分。
-      -
-        name: Clubfit
-        date: '2016.8'
-        img: http://ojxrgrrxt.bkt.clouddn.com/clubfit.jpg
-        website: http://clubfit.vwmdev.com/
-        source_code:
-        des: !!md |
-          接手这个项目时已经对团队的框架比较熟悉了，在这个项目中锻炼了页面编写能力，比如首页头部的滚动隐藏，规范了表单，Grid的布局，自定义表单控件，弹出层等等。遇到比较难的是其中的一个课程表，习惯性的横向安排数据，发现由于每一天的课程数量不定，很难处理，改成竖向按天安排数据就很舒服了。
-          每天的代码leader会review，我再相应的做出修改，整个过程下来收获很多，是一次蜕变。
-      -
-        name: taldumande
-        date: '2016.9'
-        img: http://ojxrgrrxt.bkt.clouddn.com/taldumande.jpg
-        website: https://www.taldumande.org.au/
-        source_code:
-        des: !!md |
-          这是项目前端已经能完全独立完成了，设计也有很多有趣的地方，像header，footer部分两种颜色，为了不影响其它布局也比较方便用伪元素解决。没有很难的地方，细节很多，也比较考验布局能力。
-      -
-        name: workforceprofessionals
-        date: '2016.10'
-        img: http://ojxrgrrxt.bkt.clouddn.com/workforceprofessionals.jpg
-        website: https://workforceprofessionals.org/
-        source_code:
-        des: !!md |
-          这个项目我负责后端，跟leader语音交流了一下后端框架的用法，研究了两三天大体了解了基于wordpress的后端的工作方式，于是用边写边学的方式完成了这个项目。我做的就是写项目有关的逻辑，数据的导入获取等等。
-          另外，首页的下面的Twitter部分是我写的，之前获取tweet的方法需要各种key麻烦还有问题，我查了好久找到一个相关的js库Twitter-Post-Fetcher，使用简单。
-      -
-        name: innerdoor
-        date: 2016.11 - 至今
-        img: http://ojxrgrrxt.bkt.clouddn.com/innerdoor.jpg
-        website: http://innerdoor.vwmdev.com/
-        source_code:
-        des: !!md |
-          这个项目相当于一个会员系统，数据都是通过API来获取的，有大量的表格，需要从API获取大量的数据，处理数据，渲染到前端页面上。
-          一开始我写了一堆if-else，数据跟表单一一对应，后来发现这样做代码量很大，而且不够灵活。后来重新安排数据结构，用label作为key值，前端表单label作为value值，通过模板引擎跟后端对应起来，这样既大大减少了代码量，也提高了灵活性。
+          用户可以分享的音乐、安卓软件、视频，其他用户就可以下载。开发的第一个安卓项目，曾在小米应用商店上线，后因久不维护被下架。
+  #-
+    #section: 实习项目
+    #project:
+      #-
+        #name: 
+        #date: 
+        #img: 
+        #website: 
+        #source_code:
+        #des: !!md |
 skill:
       -
         des: !!md |
-          能够用 HTML + CSS 编写语义化的代码，完成较复杂的布局，熟悉Stylus、PostCss 等css预处理、后处理工具
+          熟悉使用Android Studio、Eclipse及相关开发工具
       -
         des: !!md |
-          在Blog项目中熟悉了 Vue，写过Vue的双向数据绑定[Demo](https://github.com/xiao555/Two-way-Data-Bindings)， 使用了 ES6、7 的新语法，了解 Node.js, jQuery.
+          熟悉Java和Android语言；
       -
         des: !!md |
-          了解 Git Webpack Gulp Browsersync 等开发工具
+          熟悉CS开发模式，部署应用过程
       -
         des: !!md |
-          熟悉 Koa, Express, MongoDB, Mysql 能搭建简单的后端项目，租了Digital Ocean 的VPS 部署网站
-
-
+          熟悉HTML、JavaScript语言，开发过简单的页面
+      -
+        des: !!md |
+          熟悉微信小程序开发，开发过小程序并成功上线，累计用户近1万
+      -
+        des: !!md |
+          熟悉应用服务器配置
+      -
+        des: !!md |
+          熟悉面向对象编程，并了解Android产品开发流程
+      -
+        des: !!md |
+          购买过域名，配置过SSL证书，部署过自己的应用，在应用服务器搭建了博客，并在腾讯云备案
+      -
+        des: !!md |
+          开发过完整项目，有一定的开发经验
 ---
